@@ -1,0 +1,1 @@
+export { updateRealTimeSummarytableChart } from './summarytable';

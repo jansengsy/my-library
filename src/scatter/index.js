@@ -1,0 +1,1 @@
+export { createRealTimeScatterChart, updateRealTimeScatterChart } from './scatter';
